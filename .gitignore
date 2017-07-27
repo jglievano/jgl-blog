@@ -1,0 +1,8 @@
+# hugo
+public/
+
+# npm
+node_modules/
+
+# macOS
+.DS_Store
