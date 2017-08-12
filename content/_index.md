@@ -1,9 +1,8 @@
 ---
 title: Home
 menu: main
-weight: -270
 ---
 
-> Minimalism is not a lack of something. It's simply the perfect amount of 
-> something.
-> -- Nicholas Burroughs
+> We should not pretend to understand the world only by the intellect. The
+> judgement of the intellect is only part of the truth.
+> -- Carl Jung
