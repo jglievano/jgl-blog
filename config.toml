@@ -1,3 +1,27 @@
-baseURL = "http://jglievano.com/blog/"
+baseURL = "http://jglievano.com/"
 languageCode = "en-us"
 theme = "jgl"
+
+[params]
+  dateFormat = "2006, Jan 2"
+  copyrightOwner = "Gabriel Lievano"
+  copyrightStartYear = "2017"
+  favicon = "favicon.ico"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[author]
+  name = "Gabriel Lievano"
+
+[permalinks]
+  page = "/:slug/"
+
+defaultContentLanguage = "en"
+
+[languages]
+  [languages.en]
+    lang = "en"
+    languageName = "English"
+    weight = 1
